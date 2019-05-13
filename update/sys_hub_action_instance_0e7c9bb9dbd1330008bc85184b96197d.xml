@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Property">5e5a1779dbd1330008bc85184b9619f5</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot>5e5a1779dbd1330008bc85184b9619f5</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Action Test Flow">f8461375dbd1330008bc85184b9619a5</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 20:38:25</sys_created_on>
+        <sys_id>0e7c9bb9dbd1330008bc85184b96197d</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_330838_needit_sp">d2e39bf9db91330008bc85184b96196d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">d2e39bf9db91330008bc85184b96196d</sys_scope>
+        <sys_update_name>sys_hub_action_instance_0e7c9bb9dbd1330008bc85184b96197d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-05-13 13:05:02</sys_updated_on>
+        <ui_id>8a051c2b-f0a2-4289-bead-eed6ec1c0363</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=0e7c9bb9dbd1330008bc85184b96197d"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0e7c9bb9dbd1330008bc85184b96197d</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 20:46:07</sys_created_on>
+        <sys_id>873edff9dbd1330008bc85184b96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-09 20:46:07</sys_updated_on>
+        <value>x_58872_needit.autoCloseOverdue</value>
+        <variable display_value="">a65a1779dbd1330008bc85184b9619f8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0e7c9bb9dbd1330008bc85184b96197d</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 20:42:06</sys_created_on>
+        <sys_id>885d57f9dbd1330008bc85184b96196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-09 20:42:06</sys_updated_on>
+        <value>x_58872_needit.autoCloseOverdue</value>
+        <variable display_value="">eba89339dbd1330008bc85184b961949</variable>
+    </sys_variable_value>
+</record_update>
